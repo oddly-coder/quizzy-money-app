@@ -53,7 +53,7 @@ function Quiz() {
     <div className="App">
       <div className='container'>
         <div className='m-auto'>
-          <div className='card'>
+          <div className='card bg-transparent'>
             <div className='card-title'>
             <h3 className='bg-danger'>QUIZZY MONEY</h3>
             </div>
