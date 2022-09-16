@@ -50,12 +50,12 @@ export const successText = [
   "After you na you, boss"
 ]
 export const failureText = [
-  "Come on!",
-  "That's sad",
-  "Sit down for class u no hear",
-  "You failed this? it's easy bruv",
+  "You'll get it next time",
+  "At least you know you're not right",
+  "Don't feel bad",
+  "That is wrong",
   "Oops you got it wrong",
-  "Indomie of a brain"
+  "You can do better"
 ]
 
   export const difficultyArray = [
