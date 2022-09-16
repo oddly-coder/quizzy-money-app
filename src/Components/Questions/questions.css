@@ -1,0 +1,23 @@
+.q-container{
+    height:fit-content;
+    background-color: rgb(62, 105, 185);
+    border-radius: 5px;
+    box-shadow: 10px, 10px, 10px, 10px;
+    padding: 10px;
+    margin:auto;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+.question-tracker{
+    margin-right: auto;
+    border-radius: 10px;
+    padding:5px;
+}
+
+.top-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
